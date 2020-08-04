@@ -18,7 +18,7 @@ Add the plugin to the `plugins` array in your Tailwind CSS configuration.
 
 ```js
 plugins: [
-    require('tailwindcss-outline')()
+    require('tailwindcss-outline-another')()
 ]
 ```
 
