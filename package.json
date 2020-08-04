@@ -1,5 +1,5 @@
 {
-  "name": "tailwindcss-outline",
+  "name": "tailwindcss-outline-another",
   "version": "0.0.1",
   "description": "Tailwind CSS plugin to add utilities for outline css properties",
   "main": "src/index.js",

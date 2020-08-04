@@ -5,13 +5,13 @@
 ## Installation
 
 ```bash
-npm install tailwindcss-outline
+npm install tailwindcss-outline-another
 ```
 
 or using if you are using `yarn`
 
 ```bash
-yarn add tailwindcss-outline
+yarn add tailwindcss-outline-another
 ```
 
 Add the plugin to the `plugins` array in your Tailwind CSS configuration.
