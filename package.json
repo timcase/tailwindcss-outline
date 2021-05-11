@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.9.2",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
